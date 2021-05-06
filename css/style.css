@@ -1,0 +1,45 @@
+.background {
+    background-color: rgba(255, 247, 247, 0.664);
+}
+
+.title1 {
+    color: rgba(241, 204, 212, 0.945);
+    background-color: maroon;
+    text-align: center;
+    font-size: 40px;
+}
+
+.znacznik {
+    color: rgb(112, 71, 23);
+}
+
+.wykształcenie {
+    color: maroon
+}
+
+.tlonaglowka {
+    font-size: 20px;
+    background-color: rgba(241, 204, 212, 0.945);
+}
+
+.title2 {
+    text-align: center;
+    color: lightgoldenrodyellow;
+    background-color: maroon;
+}
+
+.lightbrown {
+    background-color: rgba(189, 157, 131, 0.884);
+}
+
+.lighterbrown {
+    background-color: rgba(241, 204, 212, 0.945);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.docBackground {
+    background: rgb(179, 238, 238);
+}
