@@ -1,4 +1,4 @@
 # homepage of Tamara Siemieniuk
 
-##DEMO
+## DEMO
 https://tamarthy.github.io/homepage/
